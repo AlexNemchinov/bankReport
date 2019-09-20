@@ -1,0 +1,6 @@
+{
+    "require": {
+        "arhitector/yandex": "dev-master",
+        "nixsolutions/yandex-php-library": "dev-master"
+    }
+}
